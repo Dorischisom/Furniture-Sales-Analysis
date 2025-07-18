@@ -39,6 +39,7 @@ This project analyzes a furniture sales dataset to understand why company profit
 
 ---
 ## Loading the Dataset:
+
 I loaded the `Furniture_Sales_Deeper_Insights.xlsx - Furniture_Sales.csv` (which was originally part of a larger `.xlsx` file) into Excel using **Power Query**. During this process, I ensured:
 
 * The correct file path and worksheet were identified.
@@ -47,6 +48,7 @@ I loaded the `Furniture_Sales_Deeper_Insights.xlsx - Furniture_Sales.csv` (which
 
 ---
 **Data Cleaning & Feature Engineering (via Power Query):**
+
 After initial loading, I performed essential data cleaning and created new calculated columns directly within **Power Query** to enrich the dataset for analysis:
 
 * **Verified Data Consistency:** Ensured values across columns were consistent.
@@ -149,15 +151,14 @@ The 57% profit decline can be attributed to a combination of factors:
 ## Project File Structure & Navigation
 This repository contains the Furniture Sales.xlsx file, which houses the dataset, calculations, and dashboards used in this analysis. Here's a guide to navigate the workbook:
 
-* Furniture sales worksheet: Contains the raw dataset.
+* `Furniture sales` worksheet: Contains the raw dataset.
 
-* Calculation worksheet: Houses the PivotTable calculations that power the first dashboard (Summary Dashboard).
+* `Calculation` worksheet: Houses the PivotTable calculations that power the first dashboard (Summary Dashboard).
 
-* Calculation 3 worksheet: Contains the PivotTables used for the second dashboard (Deep Dive Analysis Dashboard).
+* `Calculation 2` worksheet: Contains the PivotTables used for the second dashboard (Deep Dive Analysis Dashboard).
 
-* Dashboard worksheet: Displays the first, blue-themed Summary Dashboard.
+* `Dashboard` worksheet: Displays the first, blue-themed Summary Dashboard.
 
-* Dashboard 2 worksheet: Displays the second, Deep Dive Analysis Dashboard.
+* `Dashboard 2` worksheet: Displays the second, Deep Dive Analysis Dashboard.
 
-
-* Dashboard 2 worksheet contain the second dashboard
+* `Dashboard 2` worksheet: contain the second dashboard
