@@ -65,7 +65,7 @@ After initial loading, I performed essential data cleaning and created new calcu
 
 My first dashboard (in the screenshot below) provided an overview of the company's performance.
 
-![Dashboard1](Dashboard_1./Dashboard_1..png)
+![Dashboard1.](Dashboard1./Dashboard1..png)
 
 * **Total Sales: $742.0K**
 * **Total Quantity Sold: 8028.0k** 
