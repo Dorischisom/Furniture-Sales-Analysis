@@ -65,7 +65,7 @@ After initial loading, I performed essential data cleaning and created new calcu
 
 My first dashboard (in the screenshot below) provided an overview of the company's performance.
 
-![Dashboard1](Dashboard_1/Dashboard_1.png)
+![Dashboard1](Dashboard_1./Dashboard_1..png)
 
 * **Total Sales: $742.0K**
 * **Total Quantity Sold: 8028.0k** 
@@ -131,6 +131,10 @@ From the Dashboard The chart compares the total sales volume and total profit ge
     * **Tables**, despite high sales volume, generate **substantial losses**.
     * **Bookcases** also operate at a loss.
     * This indicates a problematic product mix where the business is selling more items that cost more than they bring in, directly contributing to the overall profit decline. If there has been a shift towards selling more of these unprofitable items, it further exacerbates the issue.
+
+* The Dashboard also shows the profit by month: And it is seen that Oct has the lowest profit generating month with **-3,028** in profit
+
+* The Dashboard Also shows the profit by state, and this shows ** Texas** as the lowest profit generating state with **-10,436** in profit
 
 ---
 
