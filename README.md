@@ -132,9 +132,9 @@ From the Dashboard The chart compares the total sales volume and total profit ge
     * **Bookcases** also operate at a loss.
     * This indicates a problematic product mix where the business is selling more items that cost more than they bring in, directly contributing to the overall profit decline. If there has been a shift towards selling more of these unprofitable items, it further exacerbates the issue.
 
-* The Dashboard also shows the profit by month: And it is seen that Oct has the lowest profit generating month with **-3,028** in profit
+* The Dashboard also shows the profit by month: And it is seen that October has the lowest profit generating month with **-3,028** in profit
 
-* The Dashboard Also shows the profit by state, and this shows ** Texas** as the lowest profit generating state with **-10,436** in profit
+* The Dashboard Also shows the profit by state, and this shows **Texas** as the lowest profit generating state with **-10,436** in profit
 
 ---
 
