@@ -153,7 +153,7 @@ The 57% profit decline can be attributed to a combination of factors:
 ---
 
 ## Project File Structure & Navigation
-This repository contains the Furniture Sales.xlsx file, which houses the dataset, calculations, and dashboards used in this analysis. Here's a guide to navigate the workbook:
+This repository contains the `Furniture Sales.xlsx` file, which houses the dataset, calculations, and dashboards used in this analysis. Here's a guide to navigate the workbook:
 
 * `Furniture sales` worksheet: Contains the raw dataset.
 
