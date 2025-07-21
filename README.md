@@ -3,7 +3,7 @@
 ---
 ## Project Overview
 
-This project analyzes a furniture sales dataset to understand why company profit has declined by 57% despite increasing sales and quantity. It involved creating an initial summary dashboard and then a deeper analytical dashboard to pinpoint the key drivers of this profit erosion.
+This project analyzes a furniture sales dataset to understand why company profit has declined by 57% despite increasing sales and quantity. It involved creating an initial summary dashboard and then a deeper analytical Interactive dashboard to pinpoint the key drivers of this profit erosion.
 
 ---
 # Dataset Overview
@@ -92,7 +92,7 @@ Despite healthy sales and quantity growth, the significant drop in profit indica
 ---
 ## Methodology & Deep Dive (Dashboard 2)
 
-To answer these questions, I developed a second, analytical dashboard using Excel PivotTables and charts.
+To answer these questions, I developed a second, analytical and interactive dashboard using Excel PivotTables and charts.
 
 ---
 ## Dashboard 2
